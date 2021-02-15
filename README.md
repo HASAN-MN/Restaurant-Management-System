@@ -1,0 +1,2 @@
+# Restaurant-Management-System
+This system was developed by getting inspired to a good fast food restaurant named "BURGER O CLOCK".It was a very basic and normal attempt as this project includes OOP principles using abstract classes,classes with public and protected functions,inheritance and polymorphism.Other features includes the record of employees (search,delete,create,modify record) as well as the customer purchase (add item,list item,modify ,search,delete record)
