@@ -1,0 +1,81 @@
+MENU:
+1) WINGS
+Single: 299/- (6 pieces)
+Double: 549/- (12 pieces)
+a)Plain wings
+b) Smoky BBQ
+c) Honey mustard
+d)Buffalo wings
+e) Sweet thai chilli
+
+2)Gourmet Fries
+Bucket: 259 /-
+
+a)Chilli Cheese Fries
+b)Wild Fries
+c)Zesty BBQ Fries
+d)Mayo Garlic Fries
+
+3)Pizza Fries
+Price: 359 /- (for all)
+
+a)Tikka Feast
+b)Smoky Delight
+c) Fajita Fun
+d)Classic Chicken Pepperoni
+
+4)Muscle Burgers
+
+a)Double patty (549/-)
+b) Tripple patty (699 /-)
+
+5)Classic Burgers
+Price: 359 /-
+
+a)Beef Vegi
+b) Beef Cheese
+c) Chick n Crisp
+d) Grilled Chicken
+
+6)Extreme Burgers
+Price: 439 /-
+
+a)Jalapeno Spark
+b)Smoky Tang
+c) Chilli Blast
+
+7)Premium Burgers
+
+a)Crunchos Burgers (559/- & 719/-)
+b)Pizza Burger (559 /- & 719/-)
+c) Messy Meat (559 /-)
+
+8)Stuffed Burgers
+
+a) Tripple cheese (449 /-)
+b)Jalapeno Pepper (499 /-)
+
+9)Value Burgers 
+Price: 279 /-
+a) Chick n Crisp Value Burger 
+b)Fire Bird Value Burger
+c)Smoky Tang Value Burger
+d)Jalapeno Spark Value Burger
+
+10)Healthy Kick 
+
+a)Protein Style Burger (399/- & 599/-)
+
+11)Ice Cream Shakes (329 /-) for all
+
+a) Chocolate
+b) Strawbeerry
+c) Oreo Vanilla
+d) Bronnie Blackout
+e) Kitkat Shake
+
+12)Mocktails (259 /-)
+
+a)Blue Lagoon
+b)Strawbeerry Mojito
+c)Mint Lemonade

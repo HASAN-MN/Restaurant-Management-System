@@ -1,0 +1,7 @@
+		0								0
+		0								0
+Hasan		20.1		B18,BLOCKN,NORTH_NAZIMABAD,KARACHI		03492566112		Undergraduate(CS)		20500
+Abrar		32		C-436,Defence,Phase6,Karachi		033365357542		MASTERS		25000
+Anum		19.5		A149,BLOCK17,ANCHOLI,KARACHI		033512345673		Undergraduate,BBA		20000
+Kulsoom		21		Apartment12,Shamim_Heights,Azizabad,Karachi		032145467325		BA_EDUCATION		21500
+abc		19		R249,BLOCK16,FBAREA,KARACHI		03231450953		intermediate		18000
